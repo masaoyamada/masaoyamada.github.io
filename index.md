@@ -18,7 +18,7 @@
 # Works
 - [Github](https://github.com/masaoyamada)
 - 作った作品
-  - [匿名掲示板](https://quiet-everglades-46274.herokuapp.com/)(ゲストID:guesut1, Pass:0roJeJOs)
+  - [匿名掲示板](https://quiet-everglades-46274.herokuapp.com/)(ゲストID:guest1, Pass:0roJeJOs)
   - [スケジュール管理アプリ](https://mighty-shore-05332.herokuapp.com/)(要GitHubアカウント)
 
 # Contact
