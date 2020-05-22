@@ -1,4 +1,4 @@
-![ブルースクリーン](IMG_2864 (2).JPG)
+![ブルースクリーン](bluescreen.JPG)
 
 # About
 
