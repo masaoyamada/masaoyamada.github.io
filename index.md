@@ -13,12 +13,12 @@
 ## Profile
 - 山田まさお
 - 各地を転々としている
-- Webサービス、競プロ勉強中
+- Webサービス勉強中
 
 # Skills
 - OS(Windows, Ubuntu, mac)
-- Languages(HTML, CSS, JavaScript, C++, Python)
-- Engine, Frameworks(Node.js, Express)
+- Languages(HTML, CSS, JavaScript, C++, Python, Ruby)
+- Engine, Frameworks(Node.js, Express, Rails)
 - Tool, MiddleWare(Git, PostgreSQL)
 
 # Works
@@ -26,6 +26,7 @@
 - 作った作品
   - [匿名掲示板](https://quiet-everglades-46274.herokuapp.com/posts)(ゲストID:guest1, Pass:0roJeJOs)
   - [スケジュール管理アプリ](https://mighty-shore-05332.herokuapp.com/)(要GitHubアカウント)
+  - [Simple Twitch viewer](https://chrome.google.com/webstore/detail/simple-twitch-viewer/dfpcnomecldfnncnldanilddcnpccnnf?hl=ja)(Chrome拡張機能)
 
 # Contact
 - [Twitter](https://twitter.com/masaoyamad)
